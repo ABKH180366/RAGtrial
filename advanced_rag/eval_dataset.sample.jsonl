@@ -1,0 +1,2 @@
+{"question":"有給は何日取れますか？","expected_sources":["employee_handbook.pdf"],"expected_keywords":["有給","日"],"source_filter":"employee_handbook.pdf"}
+{"question":"一日の労働時間の上限は？","expected_sources":["employee_handbook.pdf"],"expected_keywords":["労働","時間"],"source_filter":"employee_handbook.pdf"}
